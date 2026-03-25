@@ -1,5 +1,11 @@
 # Hi, I'm Rishik 👋
 
+![React Native](https://img.shields.io/badge/React%20Native-Expert-blue)
+![Redux Toolkit](https://img.shields.io/badge/Redux-Toolkit-purple)
+![Expo](https://img.shields.io/badge/Expo-Framework-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue)
+![Offline First](https://img.shields.io/badge/Architecture-Offline--First-green)
+
 Senior React Native Developer | Mobile Lead (Vijay Sales Ecosystem) 
 
 I build scalable mobile applications focused on offline-first architecture, performance optimization, and real-time systems.
