@@ -45,7 +45,7 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/rishik-karnajiya" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rishik-karanjiya" target="_blank">LinkedIn</a>
 </p>
 
 ---
